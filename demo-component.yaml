@@ -6,6 +6,8 @@ metadata:
   tags:
     - java
     - data
+  annotations:
+    backstage.io/techdocs-ref: dir:.
   links:
     - url: https://example.com/user
       title: Examples Users
